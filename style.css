@@ -502,13 +502,5 @@ p {
       align-self: flex-start;
     }
 
-    .img1, .img2, .img3, .img4, .img5, .img6 {
-      position: relative;
-      /* opacity: 0.85; */
-      background-position: center;
-      background-size: cover;
-      background-attachment: fixed;
-      background-repeat: no-repeat;
-    }
   }
 
