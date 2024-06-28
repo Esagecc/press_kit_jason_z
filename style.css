@@ -16,7 +16,7 @@ html, body {
 
 .corpus {
   height: 80px;
-  cursor: pointer;
+  padding-left: 20px;
 }
  
 /* animated xs */
@@ -428,6 +428,10 @@ p {
   @media (min-width:900px){
       .toggle {
         display: none;
+    }
+
+    .corpus {
+      padding: 0;
     }
 
     .container {
